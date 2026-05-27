@@ -1,0 +1,3 @@
+Notes on anonymizing data:
+"PatientInformation" field should be anonymized by removing the data in all fields except "PatientGender" and "Diagnosis".
+"DeviceInformation" field should be anonymized by removing the data in "ImplantDate"
